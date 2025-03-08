@@ -1,4 +1,4 @@
-# Título do Projeto
+# Sistema de fretes
 
 `CURSO: Sistemas de Informação`
 
@@ -6,11 +6,11 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto tem como objetivo desenvolver uma plataforma para terceirização de fretes, conectando empresas a transportadoras de maneira rápida, eficiente e transparente. A solução permitirá que empresas e pessoas físicas possam encontrar motoristas para o transporte de cargas, comparar preços em tempo real e negociar valores e datas diretamente com os transportadores. A plataforma contará com uma interface intuitiva para clientes e motoristas, além de um sistema de reputação baseado em feedback para garantir a qualidade dos serviços.
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Nicolas Eduardo Claudio
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
@@ -19,7 +19,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Clóvis Lemos Tavares.
+
+ 
 
 # Planejamento
 
@@ -37,4 +39,4 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="presentation/README.md"> A terceirização de fretes é uma solução estratégica para empresas que precisam otimizar sua logística e reduzir custos operacionais. No contexto de e-commerce e distribuição de produtos, encontrar transportadoras confiáveis pode ser um desafio, especialmente para quem é novo em uma cidade. Este sistema busca simplificar o acesso a motoristas adequados, oferecendo uma plataforma eficiente para comparação de preços, negociação e fechamento de contratos de frete.</a></li>
